@@ -1,22 +1,14 @@
-# TypeScript version of Yatzy Refactoring Kata
+# Yatzy refactoring kata
+Kata done in the group [Murcia Software Craftsmanship](https://www.meetup.com/es-ES/Software-Craftsmanship-Murcia/events/281070065/) on October 1st 2021.
 
-Make sure you have [node.js](https://nodejs.org), and [npm](https://www.npmjs.com/get-npm)
-installed. Then in this directory:
+The first part was made in mob programming by:
+- [Carlos Castillo](https://twitter.com/carloscasalar)
+- [Tomás Moreno](https://twitter.com/tmorenobernal)
+- [Luis Rovirosa Mairlot](https://twitter.com/luisrovirosa)
 
-## To install mocha in node_modules:
+The second part was made by me .
 
-```bash
-npm install
-```
+# Steps to run the tests
 
-## To run unit tests:
-
-```bash
-npm test
-```
-
-## To run unit tests in watch mode:
-
-```bash
-npm run watch
-```
+    npm install
+    npm test
